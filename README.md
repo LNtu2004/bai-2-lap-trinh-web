@@ -8,8 +8,11 @@ sudo apt install nginx -y "
 
 Hiện như này là được rồi
 
-<img width="604" height="581" alt="Ảnh chụp màn hình 2026-11-24 005922" src="https://github.com/user-attachments/assets/2e2f8d38-2f19-4685-a770-0688edb7709b" />
+<img width="1906" height="397" alt="Ảnh chụp màn hình 2026-11-24 011402" src="https://github.com/user-attachments/assets/ee910419-7674-4be4-8966-442a489dd7ac" />
 
 Truy cập Node-RED tại " http://localhost:1880 "
 
 Cấu hình http in 
+
+<img width="605" height="452" alt="image" src="https://github.com/user-attachments/assets/ac7bf525-1c99-45cc-b056-b64ca967ae02" />
+
