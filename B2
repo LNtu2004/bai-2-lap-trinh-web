@@ -1,1 +1,4 @@
+# Bài 2 
 
+Cài Node.js và npm bằng lệnh " sudo apt install nodejs npm -y "
+Cài Node-RED bằng lệnh " sudo npm install -g --unsafe-perm node-red "
