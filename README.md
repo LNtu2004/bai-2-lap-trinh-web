@@ -1,1 +1,10 @@
-# bai-2-lap-trinh-web
+# Bài 2 Bài tập thực hành tạo API bằng Node-RED, cấu hình Nginx để website có thể truy cập API và sử dụng JavaScript trên trang HTML để gọi API.
+Cài Node.js và npm bằng lệnh " sudo apt install nodejs npm -y "
+Cài Node-RED bằng lệnh " sudo npm install -g --unsafe-perm node-red "
+Cài Nginx bằng lệnh " sudo apt update
+sudo apt install nginx -y " 
+Hiện như này là được rồi 
+
+
+Truy cập Node-RED tại " http://localhost:1880 "
+Cấu hình http in 
